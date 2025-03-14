@@ -20,6 +20,7 @@ import HuggingFaceProvider from './huggingface';
 import HunyuanProvider from './hunyuan';
 import InternLMProvider from './internlm';
 import JinaProvider from './jina';
+import LlamaCPPProvider from './llamacpp';
 import LMStudioProvider from './lmstudio';
 import MinimaxProvider from './minimax';
 import MistralProvider from './mistral';
@@ -138,6 +139,7 @@ export const DEFAULT_MODEL_PROVIDER_LIST = [
   BaichuanProvider,
   VolcengineProvider,
   MinimaxProvider,
+  LlamaCPPProvider,
   LMStudioProvider,
   InternLMProvider,
   HigressProvider,
@@ -176,6 +178,7 @@ export { default as HuggingFaceProviderCard } from './huggingface';
 export { default as HunyuanProviderCard } from './hunyuan';
 export { default as InternLMProviderCard } from './internlm';
 export { default as JinaProviderCard } from './jina';
+export { default as LlamaCPPProviderCard } from './llamacpp';
 export { default as LMStudioProviderCard } from './lmstudio';
 export { default as MinimaxProviderCard } from './minimax';
 export { default as MistralProviderCard } from './mistral';

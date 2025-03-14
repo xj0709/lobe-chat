@@ -45,6 +45,7 @@ export enum ModelProvider {
   Hunyuan = 'hunyuan',
   InternLM = 'internlm',
   Jina = 'jina',
+  LlamaCPP = 'llamacpp',
   LMStudio = 'lmstudio',
   Minimax = 'minimax',
   Mistral = 'mistral',
