@@ -59,6 +59,9 @@
   "jina": {
     "description": "Jina AI 成立于 2020 年，是一家领先的搜索 AI 公司。我们的搜索底座平台包含了向量模型、重排器和小语言模型，可帮助企业构建可靠且高质量的生成式AI和多模态的搜索应用。"
   },
+  "llamacpp": {
+    "description": "llamacpp 是一個用於在您的電腦上開發和實驗 LLMs 的桌面應用程式。"
+  },
   "lmstudio": {
     "description": "LM Studio 是一个用于在您的计算机上开发和实验 LLMs 的桌面应用程序。"
   },

@@ -20,6 +20,7 @@ import { default as huggingface } from './huggingface';
 import { default as hunyuan } from './hunyuan';
 import { default as internlm } from './internlm';
 import { default as jina } from './jina';
+import { default as llamacpp } from './llamacpp';
 import { default as lmstudio } from './lmstudio';
 import { default as minimax } from './minimax';
 import { default as mistral } from './mistral';
@@ -89,6 +90,7 @@ export const LOBE_DEFAULT_MODEL_LIST = buildDefaultModelList({
   hunyuan,
   internlm,
   jina,
+  llamacpp,
   lmstudio,
   minimax,
   mistral,
@@ -139,6 +141,7 @@ export { default as huggingface } from './huggingface';
 export { default as hunyuan } from './hunyuan';
 export { default as internlm } from './internlm';
 export { default as jina } from './jina';
+export { default as llamacpp } from './llamacpp';
 export { default as lmstudio } from './lmstudio';
 export { default as minimax } from './minimax';
 export { default as mistral } from './mistral';

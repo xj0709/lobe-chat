@@ -103,6 +103,7 @@ export const DEFAULT_MODEL_PROVIDER_LIST = [
   AzureAIProvider,
   OllamaProvider,
   VLLMProvider,
+  LlamaCPPProvider,
   AnthropicProvider,
   BedrockProvider,
   GoogleProvider,

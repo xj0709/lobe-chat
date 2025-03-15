@@ -59,6 +59,9 @@
   "jina": {
     "description": "Founded in 2020, Jina AI is a leading search AI company. Our search base platform includes vector models, rerankers, and small language models to help businesses build reliable and high-quality generative AI and multimodal search applications."
   },
+  "llamacpp": {
+    "description": "llamacpp is a desktop application for developing and experimenting with LLMs on your computer."
+  },
   "lmstudio": {
     "description": "LM Studio is a desktop application for developing and experimenting with LLMs on your computer."
   },
