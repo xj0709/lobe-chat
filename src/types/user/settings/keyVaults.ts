@@ -53,6 +53,7 @@ export interface UserKeyVaults extends SearchEngineKeyVaults {
   hunyuan?: OpenAICompatibleKeyVault;
   internlm?: OpenAICompatibleKeyVault;
   jina?: OpenAICompatibleKeyVault;
+  llamacpp?: OpenAICompatibleKeyVault;
   lmstudio?: OpenAICompatibleKeyVault;
   lobehub?: any;
   minimax?: OpenAICompatibleKeyVault;
